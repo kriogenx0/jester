@@ -1,0 +1,3 @@
+[submodule "libs/jandi"]
+	path = libs/jandi
+	url = git@github.com:kriogenx0/jandi.git

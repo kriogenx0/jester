@@ -1,0 +1,29 @@
+body,
+.area
+{
+  background-color: #ccc;
+}
+
+.area
+{
+  padding: 20px;
+}
+
+textarea
+{
+  width: 100%;
+  min-height: 300px;
+  font-family: monospace;
+}
+
+.response
+{
+  font-family: monospace;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.table
+{
+  margin-top: 20px;
+}
